@@ -60,7 +60,7 @@ Below is a brief description of each subfolder and file:
 
 ### 📥 Download RData file
 
-You can download the `Simulation in Sec 5.RData` file (output files (.RData) from Simulation in Sec 5.R) from the [latest release](https://github.com/seungjae2525/MRMCbinary_simualtion/releases/latest).
+Because the file size is too large, you can download the `Simulation in Sec 5.RData` file (output files (.RData) from Simulation in Sec 5.R) from the [latest release](https://github.com/seungjae2525/MRMCbinary_simualtion/releases/latest).
 
 ### 🔍 Additional Notes
 - For detailed simulation settings, please refer to Section 5 in the main manuscript.
