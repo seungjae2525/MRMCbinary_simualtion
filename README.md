@@ -16,7 +16,9 @@ For details on each folder, please refer to the descriptions below.
 
 ## Simulation in Sec 2.3
 
-This folder contains R scripts and result files used to generate simulation results for Section 2.3 of the manuscript. Below is a brief description of each subfolder and file:
+This folder contains R scripts and result files used to generate simulation results for Section 2.3 of the manuscript. 
+Below is a brief description of each subfolder and file:
+
 
 ### 📁 Folder Contents
 
@@ -32,7 +34,6 @@ This folder contains R scripts and result files used to generate simulation resu
 | `Summary and plot for simulation in Sec 2.3.R` | R code to output all simulation results                                 |
 
 
-
 ### 🔍 Additional Notes
 - For detailed simulation settings, please refer to Section 2.3 of the manuscript.
 - Make sure to specify an appropriate working directory before running the code.
@@ -43,20 +44,28 @@ This folder contains R scripts and result files used to generate simulation resu
 
 ## Simulation in Sec 5
 
-This folder contains R scripts and result files used to generate simulation results for Section 2.3 of the manuscript. Below is a brief description of each subfolder and file:
+This folder contains R scripts and result files used to generate simulation results for Section 5 of the manuscript. 
+Below is a brief description of each subfolder and file:
+
 
 ### 📁 Folder Contents
 
-| File | Description |
-|---------------|-------------|
-| `Rcodes`      | Contains all R scripts used for the simulation study. These include the main loop, data generation, model fitting functions, and summary routines. |
-| `Results`     | Output files (e.g., `.rds`) generated from the simulation. These include saved estimates, convergence status, and timing information. |
-| `README.md`   | This file. Provides an overview of the contents in this folder. |
+| File                                                  | Description                                          |
+|-------------------------------------------------------|------------------------------------------------------|
+| `Simulation in Sec 5.R`                               | R code to perform simulatio                          |
+| `Simulation in Sec 5.RData`                           | Output files (`.RData`) from `Simulation in Sec 5.R` |
+| `Simulation in Sec 5.xlsx`                            | Simulation results (for Tables S6 and S7)            |
+| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n100_b2.pdf` | Simulation results (for Figure 1)                    |
+| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n100_b3.pdf` | Simulation results (for Figure S5)                   |
+| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n500_b2.pdf` | Simulation results (for Figure S6)                   |
+| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n500_b3.pdf` | Simulation results (for Figure S7)                   |
+| `Summary and plot for simulation in Sec 5.R`          | R code to output all simulation results              |
+
 
 ### 🔍 Additional Notes
-- For detailed simulation settings, please refer to Section 2.3 of the manuscript.
+- For detailed simulation settings, please refer to Section 5 of the manuscript.
 - Make sure to specify an appropriate working directory before running the code.
 - The currently uploaded results are for the only combination reported in the paper.
-- To see results for other combinations, see the results after modifying "beta_0_v", "beta_2k_v", and "beta_3k_v" values ​​in lines 42--44 of `Summary and plot for simulation in Sec 2.3.R`.
+- To see results for other combinations, see the results after modifying "beta_0_v", "beta_2k_v", and "beta_3k_v" values ​​in lines 42–44 of `Summary and plot for simulation in Sec 5.R`.
 
 
