@@ -20,12 +20,13 @@ This folder contains R scripts and result files used to generate simulation resu
 
 ### 📁 Folder Contents
 
-| File                                           | Description                                                                                                   |
-|------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| `Simulation in Sec 2.3.R`                      | R scripts for the simulation study, including the main loop, data generation, model fitting, and summarizing. |
-| `Results`                                      | Output files (e.g., `.rds`) including estimates, convergence status, and timing information.                  |
-| `README.md`                                    | This file. Provides an overview of the contents in this folder.                                               |
-| `Results for simulation in Sec 2.3.R`          | Generates summary statistics and plots for the simulation in Section 2.3.                                     |
+| File                                           | Description                                                             |
+|------------------------------------------------|-------------------------------------------------------------------------|
+| `Simulation in Sec 2.3.R`                      | Main scripts for simulation: data generation, model fitting, summary.   |
+| `Results`                                      | Output files (`.rds`) with estimates, convergence info, timing.         |
+| `README.md`                                    | Overview of folder contents.                                            |
+| `Summary and plot for simulation in Sec 2.3.R` | Creates summary tables and plots for Section 2.3 simulation.            |
+
 
 
 ### 🔍 Additional Notes
