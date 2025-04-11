@@ -12,6 +12,7 @@ There are two main folders, as follows:
 For details on each folder and the files within it, please refer to the descriptions below.
 
 
+
 ## Simulation in Sec 2.3
 
 This folder contains R scripts and result files used to generate simulation results for Section 2.3 of the manuscript. 
@@ -36,8 +37,6 @@ Below is a brief description of each subfolder and file:
 - For detailed simulation settings, please refer to Section 2.3 of the manuscript.
 - Make sure to specify an appropriate working directory before running the code.
 - All simulation studies were conducted on the x86_64-pc-linux-gnu (64-bit) platform, running under Ubuntu 22.04.3 LTS, utilizing 100 CPU cores through parallel processing, and took a total of 12.5 minutes to complete (for a total of 6 combinations).
-
-
 
 
 
