@@ -10,7 +10,7 @@ This folder contains R scripts and result files used to generate simulation resu
 
 ### 📁 Folder Contents
 
-| Folder / File | Description |
+| Simulation in Sec 2.3 / File | Description |
 |---------------|-------------|
 | `Rcodes`      | Contains all R scripts used for the simulation study. These include the main loop, data generation, model fitting functions, and summary routines. |
 | `Results`     | Output files (e.g., `.rds`) generated from the simulation. These include saved estimates, convergence status, and timing information. |
@@ -30,7 +30,7 @@ This folder contains R scripts and result files used to generate simulation resu
 
 ### 📁 Folder Contents
 
-| Folder / File | Description |
+| Simulation in Sec 5 / File | Description |
 |---------------|-------------|
 | `Rcodes`      | Contains all R scripts used for the simulation study. These include the main loop, data generation, model fitting functions, and summary routines. |
 | `Results`     | Output files (e.g., `.rds`) generated from the simulation. These include saved estimates, convergence status, and timing information. |
