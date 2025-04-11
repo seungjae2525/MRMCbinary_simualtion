@@ -35,7 +35,7 @@ Below is a brief description of each subfolder and file:
 ### 🔍 Additional Notes
 - For detailed simulation settings, please refer to Section 2.3 of the manuscript.
 - Make sure to specify an appropriate working directory before running the code.
-- All simulation studies were conducted on a Windows 11 x64 (build 26100) system, utilizing 100 CPU cores through parallel processing, and took a total of xx hours and yy minutes to complete (for a total of 6 combinations).
+- All simulation studies were conducted on a Windows 11 x64 (build 26100) system, utilizing 100 CPU cores through parallel processing, and took a total of 12.5 minutes to complete (for a total of 6 combinations).
 
 
 
