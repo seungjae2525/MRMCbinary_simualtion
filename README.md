@@ -5,7 +5,7 @@ This repository contains the simulation code and results for the following paper
 
 The materials are organized to reproduce the simulation results in Sections 2.3 and 5 of the manuscript.
 
-There are two main folders, as follows:
+There are two main folders in this repository, as follows:
 - `Simulation in Sec 2.3`: Contains simulation code and results related to Section 2.3 of the manuscript.
 - `Simulation in Sec 5`: Contains simulation code and results related to Section 5 of the manuscript.
 
