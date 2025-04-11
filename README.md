@@ -24,19 +24,19 @@ This folder contains R scripts and result files used to generate simulation resu
 |------------------------------------------------|-------------------------------------------------------------------------|
 | `Simulation in Sec 2.3.R`                      | R code to perform simulatio                                             |
 | `Simulation in Sec 2.3.RData`                  | Output files (`.RData`) from `Simulation in Sec 2.3.R`                  |
-| `Simulation in Sec 2.3.xlsx`                   | Overview of folder contents.                                            |
-| `Simulation in Sec 2.3_n100_b2.pdf`            | Overview of folder contents.                                            |
-| `Simulation in Sec 2.3_n100_b3.pdf`            | Overview of folder contents.                                            |
-| `Simulation in Sec 2.3_n500_b2.pdf`            | Overview of folder contents.                                            |
-| `Simulation in Sec 2.3_n500_b3.pdf`            | Overview of folder contents.                                            |
-| `Summary and plot for simulation in Sec 2.3.R` | Creates summary tables and plots for Section 2.3 simulation.            |
+| `Simulation in Sec 2.3.xlsx`                   | Simulation results (for Tables S4 and S5)                               |
+| `Simulation in Sec 2.3_n100_b2.pdf`            | Simulation results (for Figure S1)                                      |
+| `Simulation in Sec 2.3_n100_b3.pdf`            | Simulation results (for Figure S2)                                      |
+| `Simulation in Sec 2.3_n500_b2.pdf`            | Simulation results (for Figure S3)                                      |
+| `Simulation in Sec 2.3_n500_b3.pdf`            | Simulation results (for Figure S4)                                      |
+| `Summary and plot for simulation in Sec 2.3.R` | R code to output all simulation results                                 |
 
 
 
 ### 🔍 Additional Notes
+- For detailed simulation settings, please refer to Section 2.3 of the manuscript.
+- Make sure to specify an appropriate working directory before running the code.
 
-- Make sure to run the scripts in the order described in `Rcodes/main.R` if you wish to reproduce the simulations.
-- Simulation settings (e.g., number of replications, parameter values) are defined in `Rcodes/setting_sim.R`.
 
 
 
@@ -54,6 +54,9 @@ This folder contains R scripts and result files used to generate simulation resu
 | `README.md`   | This file. Provides an overview of the contents in this folder. |
 
 ### 🔍 Additional Notes
+- For detailed simulation settings, please refer to Section 2.3 of the manuscript.
+- Make sure to specify an appropriate working directory before running the code.
+- The currently uploaded results are for the only combination reported in the paper.
+- To see results for other combinations, see the results after modifying "beta_0_v", "beta_2k_v", and "beta_3k_v" values ​​in lines 42--44 of `Summary and plot for simulation in Sec 2.3.R`.
 
-- Make sure to run the scripts in the order described in `Rcodes/main.R` if you wish to reproduce the simulations.
-- Simulation settings (e.g., number of replications, parameter values) are defined in `Rcodes/setting_sim.R`.
+
