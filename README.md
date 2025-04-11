@@ -15,7 +15,7 @@ For details on each folder and the files within it, please refer to the descript
 
 ## Simulation in Sec 2.3
 
-This folder contains R scripts and result files used to generate simulation results for Section 2.3 of the manuscript. 
+This folder contains R scripts and result files used to generate simulation results for Section 2.3 in the main manuscript. 
 Below is a brief description of each subfolder and file:
 
 
@@ -34,7 +34,7 @@ Below is a brief description of each subfolder and file:
 
 
 ### 🔍 Additional Notes
-- For detailed simulation settings, please refer to Section 2.3 of the manuscript.
+- For detailed simulation settings, please refer to Section S2.2 of the Supplementary Material.
 - Make sure to specify an appropriate working directory before running the code.
 - All simulation studies were conducted on the x86_64-pc-linux-gnu (64-bit) platform, running under Ubuntu 22.04.3 LTS, utilizing 100 CPU cores through parallel processing, and took a total of 12.5 minutes to complete (for a total of 6 combinations).
 
@@ -61,7 +61,7 @@ Below is a brief description of each subfolder and file:
 
 
 ### 🔍 Additional Notes
-- For detailed simulation settings, please refer to Section 5 of the manuscript.
+- For detailed simulation settings, please refer to Section 5 in the main manuscript.
 - Make sure to specify an appropriate working directory before running the code.
 - The currently uploaded results are for the only combination reported in the paper.
 - To see results for other combinations, see the results after modifying "beta_0_v", "beta_2k_v", and "beta_3k_v" values ​​in lines 42–44 of `Summary and plot for simulation in Sec 5.R`.
