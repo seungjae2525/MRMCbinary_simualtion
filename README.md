@@ -25,11 +25,11 @@ Below is a brief description of each subfolder and file:
 |------------------------------------------------|-------------------------------------------------------------------------|
 | `Simulation in Sec 2.3.R`                      | R code to perform simulation                                            |
 | `Simulation in Sec 2.3.RData`                  | Output files (`.RData`) from `Simulation in Sec 2.3.R`                  |
-| `Simulation in Sec 2.3.xlsx`                   | Simulation results (for Tables S4 and S5 in the Supplementary Material) |
-| `Simulation in Sec 2.3_n100_b2.pdf`            | Simulation results (for Figure S1 in the Supplementary Material)        |
-| `Simulation in Sec 2.3_n100_b3.pdf`            | Simulation results (for Figure S2 in the Supplementary Material)        |
-| `Simulation in Sec 2.3_n500_b2.pdf`            | Simulation results (for Figure S3 in the Supplementary Material)        |
-| `Simulation in Sec 2.3_n500_b3.pdf`            | Simulation results (for Figure S4 in the Supplementary Material)        |
+| `Simulation in Sec 2.3.xlsx`                   | Tables S4 and S5 in the Supplementary Material |
+| `Simulation in Sec 2.3_n100_b2.pdf`            | Figure S1 in the Supplementary Material        |
+| `Simulation in Sec 2.3_n100_b3.pdf`            | Figure S2 in the Supplementary Material        |
+| `Simulation in Sec 2.3_n500_b2.pdf`            | Figure S3 in the Supplementary Material        |
+| `Simulation in Sec 2.3_n500_b3.pdf`            | Figure S4 in the Supplementary Material        |
 | `Summary and plot for simulation in Sec 2.3.R` | R code to output all simulation results                                 |
 
 
