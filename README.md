@@ -3,13 +3,13 @@
 This repository contains the simulation code and results for the following paper:
 **"Evaluating diagnostic accuracy of binary medical tests in multi-reader multi-case study."**
 
-The materials are organized by the sections of the manuscript that they support.
+The materials are organized to reproduce the simulation results in Sections 2.3 and 5 of the manuscript.
 
-There are two main folders:
+There are two main folders, as follows:
 - `Simulation in Sec 2.3`: Contains simulation code and results related to Section 2.3 of the manuscript.
 - `Simulation in Sec 5`: Contains simulation code and results related to Section 5 of the manuscript.
 
-For details on each folder, please refer to the descriptions below.
+For details on each folder and the files within it, please refer to the descriptions below.
 
 
 
