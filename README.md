@@ -1,8 +1,15 @@
-# MRMCbinary_simualtion
+# Simulation Code and Results
 
-This directory contains the simulation code and results for the paper  
+This repository contains the simulation code and results for the following paper:
 **"Evaluating diagnostic accuracy of binary medical tests in multi-reader multi-case study."**
 
+The materials are organized by the sections of the manuscript that they support.
+
+There are two main folders:
+- `Simulation in Sec 2.3`: Contains simulations related to Section 2.3 of the manuscript.
+- `Simulation in Sec 5`: Contains simulations related to Section 5 of the manuscript.
+
+For details on each folder, please refer to the descriptions below.
 
 ## Simulation in Section 2.3
 
