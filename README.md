@@ -60,7 +60,7 @@ Below is a brief description of each subfolder and file:
 
 ### 📥 Download RData file
 
-- The `Simulation in Sec 5.RData` file size is too large (about 894MB) to be uploaded directly to this repository.
+- The `Simulation in Sec 5.RData` file size is too large to be uploaded directly to this repository (about 894MB).
 - Therefore, you can download the `Simulation in Sec 5.RData` file (output files (.RData) from Simulation in Sec 5.R) from the [latest release](https://github.com/seungjae2525/MRMCbinary_simualtion/releases/latest).
 
 ### 🔍 Additional Notes
