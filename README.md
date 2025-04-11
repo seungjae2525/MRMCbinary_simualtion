@@ -11,6 +11,8 @@ There are two main folders, as follows:
 
 For details on each folder and the files within it, please refer to the descriptions below.
 
+The simulation study was conducted on a Windows 11 x64 (build 26100) system, utilizing 100 CPU cores through parallel processing, 
+and took a total of xx hours and yy minutes to complete.
 
 
 
