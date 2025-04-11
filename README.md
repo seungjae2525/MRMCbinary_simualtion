@@ -14,7 +14,7 @@ For details on each folder, please refer to the descriptions below.
 
 
 
-## Simulation in Section 2.3
+## Simulation in Sec 2.3
 
 This folder contains R scripts and result files used to generate simulation results for Section 2.3 of the manuscript. Below is a brief description of each subfolder and file:
 
@@ -22,7 +22,7 @@ This folder contains R scripts and result files used to generate simulation resu
 
 | File | Description |
 |---------------|-------------|
-| `Rcodes`      | Contains all R scripts used for the simulation study. These include the main loop, data generation, model fitting functions, and summary routines. |
+| `Simulation in Sec 2.3.R` | Contains all R scripts used for the simulation study. These include the main loop, data generation, model fitting functions, and summary routines. |
 | `Results`     | Output files (e.g., `.rds`) generated from the simulation. These include saved estimates, convergence status, and timing information. |
 | `README.md`   | This file. Provides an overview of the contents in this folder. |
 
@@ -34,7 +34,7 @@ This folder contains R scripts and result files used to generate simulation resu
 
 
 
-## Simulation in Section 5
+## Simulation in Sec 5
 
 This folder contains R scripts and result files used to generate simulation results for Section 2.3 of the manuscript. Below is a brief description of each subfolder and file:
 
