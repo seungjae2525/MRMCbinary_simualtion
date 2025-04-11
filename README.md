@@ -53,7 +53,7 @@ Below is a brief description of each subfolder and file:
 |-------------------------------------------------------|------------------------------------------------------|
 | `Simulation in Sec 5.R`                               | R code to perform simulation                         |
 | `Simulation in Sec 5.RData`                           | Output files (`.RData`) from `Simulation in Sec 5.R` |
-| `Simulation in Sec 5.xlsx`                            | Simulation results (for Tables S6 and S7)            |
+| `Simulation in Sec 5.xlsx`                            | Simulation results (for Tables S6 and S7 in the Supplementary Material) |
 | `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n100_b2.pdf` | Simulation results (for Figure 1)                    |
 | `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n100_b3.pdf` | Simulation results (for Figure S5)                   |
 | `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n500_b2.pdf` | Simulation results (for Figure S6)                   |
