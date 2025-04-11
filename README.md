@@ -36,7 +36,7 @@ Below is a brief description of each subfolder and file:
 ### 🔍 Additional Notes
 - For detailed simulation settings, please refer to Section S2.2 of the Supplementary Material.
 - Make sure to specify an appropriate working directory before running the code.
-- All simulation studies were conducted on the x86_64-pc-linux-gnu (64-bit) platform, running under Ubuntu 22.04.3 LTS, utilizing 100 CPU cores through parallel processing, and took a total of 12.5 minutes to complete (for a total of 6 combinations).
+- All simulation studies were conducted on the x86_64-pc-linux-gnu (64-bit) platform, running under Ubuntu 22.04.3 LTS, utilizing 100 CPU cores through parallel processing, and took approximately 13 minutes to complete (for a total of 6 combinations).
 
 
 
@@ -67,6 +67,6 @@ You can download the `Simulation in Sec 5.RData` file (output files (.RData) fro
 - Make sure to specify an appropriate working directory before running the code.
 - The currently uploaded results are for the only combination reported in the paper.
 - To see results for other combinations, see the results after modifying "beta_0_v", "beta_2k_v", and "beta_3k_v" values ​​in lines 42–44 of `Summary and plot for simulation in Sec 5.R`.
-- All simulation studies were conducted on the x86_64-pc-linux-gnu (64-bit) platform, running under Ubuntu 22.04.3 LTS, utilizing 100 CPU cores through parallel processing, and took a total of xx hours and yy minutes to complete (for a total of 288 combinations).
+- All simulation studies were conducted on the x86_64-pc-linux-gnu (64-bit) platform, running under Ubuntu 22.04.3 LTS, utilizing 100 CPU cores through parallel processing, and took approximately 12 hours to complete (for a total of 288 combinations).
 
 
