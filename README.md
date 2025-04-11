@@ -15,7 +15,8 @@ For details on each folder and the files within it, please refer to the descript
 
 ## Simulation in Sec 2.3
 
-This folder contains R scripts and result files used to generate simulation results for Section 2.3 in the main manuscript. 
+This folder contains R scripts, RData, and result (Table and Figure) files used to reproduce simulation results for Section 2.3 in the main manuscript. 
+
 Below is a brief description of each subfolder and file:
 
 
@@ -42,7 +43,8 @@ Below is a brief description of each subfolder and file:
 
 ## Simulation in Sec 5
 
-This folder contains R scripts and result files used to generate simulation results for Section 5 of the manuscript. 
+This folder contains R scripts, RData, and result (Table and Figure) files used to reproduce simulation results for Section 5 of the manuscript. 
+
 Below is a brief description of each subfolder and file:
 
 
