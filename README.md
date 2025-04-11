@@ -1,6 +1,7 @@
 # MRMCbinary_simualtion
 
-
+This directory contains the simulation code and results for the paper  
+**"Evaluating diagnostic accuracy of binary medical tests in multi-reader multi-case study."**
 
 
 ## Simulation in Section 2.3
