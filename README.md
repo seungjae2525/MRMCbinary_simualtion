@@ -17,7 +17,7 @@ For details on each folder and the files within it, please refer to the descript
 
 This folder contains R scripts, RData, and result (Table and Figure) files used to reproduce simulation results for Section 2.3 in the main manuscript. 
 
-Below is a brief description of each subfolder and file:
+Below is a brief description of each file in this folder:
 
 
 ### 📁 Folder Contents
@@ -45,7 +45,7 @@ Below is a brief description of each subfolder and file:
 
 This folder contains R scripts, RData, and result (Table and Figure) files used to reproduce simulation results for Section 5 of the manuscript. 
 
-Below is a brief description of each subfolder and file:
+Below is a brief description of each file in this folder:
 
 
 ### 📁 Folder Contents
