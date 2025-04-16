@@ -26,16 +26,16 @@ Below is a brief description of each file in this folder:
 |------------------------------------------------|--------------------------------------------------------|
 | `Simulation in Sec 2.3.R`                      | R code to perform simulation                           |
 | `Simulation in Sec 2.3.RData`                  | Output files (`.RData`) from `Simulation in Sec 2.3.R` |
-| `Simulation in Sec 2.3.xlsx`                   | Tables S4 and S5 in the Supplementary Material         |
-| `Simulation in Sec 2.3_n100_b2.pdf`            | Figure S1 in the Supplementary Material                |
-| `Simulation in Sec 2.3_n100_b3.pdf`            | Figure S2 in the Supplementary Material                |
-| `Simulation in Sec 2.3_n500_b2.pdf`            | Figure S3 in the Supplementary Material                |
-| `Simulation in Sec 2.3_n500_b3.pdf`            | Figure S4 in the Supplementary Material                |
+| `Simulation in Sec 2.3.xlsx`                   | Tables S4 and S5 in the Supporting Information         |
+| `Simulation in Sec 2.3_n100_b2.pdf`            | Figure S1 in the Supporting Information                |
+| `Simulation in Sec 2.3_n100_b3.pdf`            | Figure S2 in the Supporting Information                |
+| `Simulation in Sec 2.3_n500_b2.pdf`            | Figure S3 in the Supporting Information                |
+| `Simulation in Sec 2.3_n500_b3.pdf`            | Figure S4 in the Supporting Information                |
 | `Summary and plot for simulation in Sec 2.3.R` | R code to output all simulation results                |
 
 
 ### 🔍 Additional Notes
-- For detailed simulation settings, please refer to Section S2.2 of the Supplementary Material.
+- For detailed simulation settings, please refer to Section S2.2 of the Supporting Information.
 - Make sure to specify an appropriate working directory before running the code.
 - All simulation studies were conducted on the x86_64-pc-linux-gnu (64-bit) platform, running under Ubuntu 22.04.3 LTS, utilizing 100 CPU cores through parallel processing, and took approximately 13 minutes to complete (for a total of 6 combinations).
 
@@ -53,11 +53,11 @@ Below is a brief description of each file in this folder:
 | File                                                  | Description                                          |
 |-------------------------------------------------------|------------------------------------------------------|
 | `Simulation in Sec 5.R`                               | R code to perform simulation                         |
-| `Simulation in Sec 5.xlsx`                            | Tables S6 and S7 in the Supplementary Material       |
+| `Simulation in Sec 5.xlsx`                            | Tables S6 and S7 in the Supporting Information       |
 | `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n100_b2.pdf` | Figure 1 in the main manuscript                      |
-| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n100_b3.pdf` | Figure S5 in the Supplementary Material              |
-| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n500_b2.pdf` | Figure S6 in the Supplementary Material              |
-| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n500_b3.pdf` | Figure S7 in the Supplementary Material              |
+| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n100_b3.pdf` | Figure S5 in the Supporting Information              |
+| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n500_b2.pdf` | Figure S6 in the Supporting Information              |
+| `Simulation in Sec 5_b0(2.5)_b2(1)_b3(1)_n500_b3.pdf` | Figure S7 in the Supporting Information              |
 | `Summary and plot for simulation in Sec 5.R`          | R code to output all simulation results              |
 
 ### 📥 Download RData file
